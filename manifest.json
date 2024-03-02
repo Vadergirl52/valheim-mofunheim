@@ -1,6 +1,6 @@
 {
   "name": "mofunheim",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/Vadergirl52/valheim-mofunheim",
   "description": "Mods to make Valheim more fun but not slow you down.",
   "dependencies": [
@@ -35,6 +35,7 @@
     "Frenvius-Valharvest-3.0.7",
     "RustyMods-CustomBanners-1.0.4",
     "plumga-Clutter-0.1.6",
-    "Neobotics-LoxsquitoLove-0.1.0"
+    "Neobotics-LoxsquitoLove-0.1.0",
+    "Marlthon-OdinShipPlus-0.4.7"
   ]
 }
