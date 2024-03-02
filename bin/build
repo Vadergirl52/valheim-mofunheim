@@ -1,0 +1,3 @@
+#!/bin/bash
+
+zip mofunheim.zip manifest.json README.md icon.png
