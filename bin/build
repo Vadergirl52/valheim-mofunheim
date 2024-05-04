@@ -1,3 +1,6 @@
 #!/bin/bash
 
+version=$(jq '.version_number' manifest.json)
+
+printf "Packaging version $version\n\n"
 zip mofunheim.zip manifest.json README.md icon.png
